@@ -65,7 +65,6 @@ Outside of coding, I enjoy cricket 🏏, reading books 📚, and exploring new p
 
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
 [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
