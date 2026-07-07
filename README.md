@@ -9,7 +9,7 @@ Hi! I'm **Abu Taher** — a passionate **Full Stack Developer** and **CSE Gradua
 Outside of coding, I enjoy cricket 🏏, reading books 📚, and exploring new places 🌍. I also run a YouTube channel — **CMS Academy** — where I teach coding, math, and science.
 
 - 🔭 Currently building **Maktabatus Salaf** — an Islamic e-commerce bookstore (Next.js + MongoDB)
-- 🌱 Deepening expertise in **Next.js**, **PostgreSQL**, and **Docker**
+- 🌱 Deepening expertise in **Next.js** and exploring **AWS** & **GraphQL**
 - 🤝 Open to collaborate on meaningful full-stack projects
 - 🏆 4th Place — KYAU National Hackathon 2023
 - 📫 Reach me at **taherpust@gmail.com**
@@ -40,7 +40,6 @@ Outside of coding, I enjoy cricket 🏏, reading books 📚, and exploring new p
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Tools & Platforms:**
@@ -64,11 +63,11 @@ Outside of coding, I enjoy cricket 🏏, reading books 📚, and exploring new p
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taher-39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taher-39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taher-39&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Taher-39&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taher-39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taher-39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
 
 ---
 
