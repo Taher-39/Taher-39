@@ -63,11 +63,13 @@ Outside of coding, I enjoy cricket 🏏, reading books 📚, and exploring new p
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taher-39&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Taher-39&theme=tokyonight&hide_border=true)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Taher-39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taher-39&theme=tokyonight&utcOffset=6)](https://github.com/Taher-39)
 
 ---
 
