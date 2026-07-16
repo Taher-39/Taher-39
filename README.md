@@ -59,17 +59,5 @@ Outside of coding, I enjoy cricket 🏏, reading books 📚, and exploring new p
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abu-taher-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taherpust@gmail.com)
 
----
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
-
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
-
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taher-39&theme=tokyonight)](https://github.com/Taher-39)
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taher-39&theme=tokyonight&utcOffset=6)](https://github.com/Taher-39)
-
----
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer)
